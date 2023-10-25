@@ -1,2 +1,10 @@
 
-two
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Welcome everyone</title>
+</head>
+<body>
+<p>First html applications</p>
+</body>
+</html>
